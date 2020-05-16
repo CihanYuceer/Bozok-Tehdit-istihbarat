@@ -1,2 +1,2 @@
-# Bozok-Tehdit-stihbarat
+# Bozok-Tehdit-istihbarat
 Bozok Tehdit İstihbarat Platformu
